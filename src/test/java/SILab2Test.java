@@ -26,7 +26,7 @@ class SILab2Test {
 
     @Test
     void EveryBranch(){
-
+        //Некои од тест примерите се веќе тестирани во EveryStatement
 
         List<String> correctList = Arrays.asList("0", "#", "0", "#", "0", "0", "#", "0", "#", "#", "0", "#", "0", "0", "0", "0");
         List<String> correctResult = Arrays.asList("1", "#", "3", "#", "1", "3", "#", "3", "#", "#", "3", "#", "1", "1", "0", "1");
